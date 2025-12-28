@@ -7,7 +7,7 @@ const repeatString = function(str,num) {
     return returnStr;
 };
 
-alert(repeatString("hello",3));
+
 
 // Do not edit below this line
 module.exports = repeatString;
